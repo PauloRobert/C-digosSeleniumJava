@@ -24,5 +24,12 @@ public class arrayRegioes {
 		return regioes.get(0);
 
 	}
+	
+	
+	//Inclui isso na outra classe instanciado ele
+	//arrayRegioes regioesSorteada = new arrayRegioes();
+	//E chamar os dados desta forma:
+	//regioesSorteada.regiao()
+
 
 }
